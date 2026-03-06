@@ -1,3 +1,5 @@
+**Total Replay** is the amazing work of [4am](https://github.com/a2-4am) — a lovingly curated collection of hundreds of Apple II games with a beautiful launcher. The original project lives at [github.com/a2-4am/4cade](https://github.com/a2-4am/4cade). All credit for Total Replay goes to 4am and its contributors. This fork only adds joystick navigation support so you can browse and play with a stick instead of the keyboard.
+
 # Joystick Navigation
 
 If a joystick is detected at boot, you can use it to navigate the game catalog:
@@ -35,7 +37,7 @@ $ brew install acme parallel mach-kernel-cadius exomizer
 Now you're ready to build Total Replay:
 
 ``` shell
-$ git clone https://github.com/a2-4am/4cade.git
+$ git clone https://github.com/portwally/4cade.git
 $ cd 4cade/
 $ make
 ```
@@ -104,7 +106,7 @@ $ cd -
 Now you're ready to build Total Replay:
 
 ``` shell
-$ git clone https://github.com/a2-4am/4cade.git
+$ git clone https://github.com/portwally/4cade.git
 $ cd 4cade/
 $ make
 ```
