@@ -1,4 +1,4 @@
-**Total Replay** is the amazing work of [4am](https://github.com/a2-4am) — a lovingly curated collection of hundreds of Apple II games with a beautiful launcher. The original project lives at [github.com/a2-4am/4cade](https://github.com/a2-4am/4cade). All credit for Total Replay goes to 4am and its contributors. This fork only adds joystick navigation support so you can browse and play with a stick instead of the keyboard.
+**Total Replay** is the amazing work of [4am](https://github.com/a2-4am) — a lovingly curated collection of hundreds of Apple II games with a beautiful launcher. The original project lives at [github.com/a2-4am/4cade](https://github.com/a2-4am/4cade). All credit for Total Replay goes to 4am and its contributors. This fork only adds joystick navigation support so you can browse with a stick instead of only the keyboard.
 
 # Joystick Navigation
 
